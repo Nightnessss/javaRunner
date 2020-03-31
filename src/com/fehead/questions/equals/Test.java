@@ -1,4 +1,4 @@
-package com.fehead.equals;
+package com.fehead.questions.equals;
 
 /**
  * @author Nightnessss 2020/3/30 17:30
